@@ -1,4 +1,4 @@
-# yuga-sugar
+# yuka-sugar
 IOS App - AR Kit - Display number of sugars from a product
 
 Si l'utilisateur a cliqué sur le bouton "Afficher les sucres", une scène AR se lance et affiche
